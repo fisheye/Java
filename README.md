@@ -1,4 +1,4 @@
 Java
 ====
 
-all java code is here
+This repository contains all projects writen by java 
